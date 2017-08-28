@@ -1,0 +1,1 @@
+[Shell中的IFS解惑](http://blog.csdn.net/whuslei/article/details/7187639)
